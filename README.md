@@ -8,7 +8,7 @@ La Privacy Policy es necesaria para cumplir con los requisitos del **Discord Dev
 
 ## 📁 Contenido del repositorio
 
-- `privacy-policy.html`  
+- `index.html`  
   Documento HTML que describe cómo el bot recopila, utiliza y protege la información de los usuarios.
 
 - `README.md`  
@@ -37,4 +37,5 @@ Este archivo HTML está pensado para ser:
 
 - Publicado en **GitHub Pages**
 - Enlazado desde el **Discord Developer Portal**
+
 - Consultado públicamente por los usuarios del bot
